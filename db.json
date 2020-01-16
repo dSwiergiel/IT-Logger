@@ -20,6 +20,13 @@
       "attention": false,
       "date": "03-02-2019",
       "tech": "Bos Baggot"
+    },
+    {
+      "id": 8,
+      "message": "Changed video card on #342",
+      "attention": true,
+      "tech": "Alex Jones",
+      "date": "2020-01-16T20:20:41.515Z"
     }
   ],
   "techs": [
